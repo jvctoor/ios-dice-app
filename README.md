@@ -1,5 +1,5 @@
 # Dice app for iOS
-🎲 Dice app. Project from iOS Bootcamp of the @londonappbrewery
+🎲 @londonappbrewery iOS Development Bootcamp First Project.
 <br>
 <br>
 <br>
